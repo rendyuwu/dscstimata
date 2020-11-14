@@ -8,3 +8,4 @@
   * Javascript Framework
     ^ React
     ^ Vue
+    ^ Angular
